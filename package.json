@@ -63,7 +63,7 @@
     "tsickle": "^0.34.0",
     "standard-version": "4.3.0",
     "systemjs": "0.21.0",
-    "tslint": "5.9.1",
+    "tslint": "5.20.1",
     "typescript": "3.2.4",
     "zone.js": "0.8.29"
   },
