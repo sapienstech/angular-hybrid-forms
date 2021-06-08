@@ -43,7 +43,7 @@
     "@types/jasmine": "2.5.54",
     "@types/node": "8.10.0",
     "camelcase": "4.1.0",
-    "concurrently": "3.5.1",
+    "concurrently": "6.2.0",
     "core-js": "2.5.4",
     "glob": "7.1.2",
     "jasmine-core": "^3.3.0",
