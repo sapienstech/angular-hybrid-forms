@@ -40,7 +40,7 @@
     "@angular/forms": "7.2.3",
     "@angular/platform-browser": "7.2.3",
     "@angular/platform-browser-dynamic": "7.2.3",
-    "@types/jasmine": "2.5.54",
+    "@types/jasmine": "2.8.18",
     "@types/node": "8.10.0",
     "camelcase": "4.1.0",
     "concurrently": "3.5.1",
