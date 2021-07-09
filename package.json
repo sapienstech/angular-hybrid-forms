@@ -52,7 +52,7 @@
     "karma-cli": "1.0.1",
     "karma-html-reporter": "0.2.7",
     "karma-jasmine": "2.0.1",
-    "karma-jasmine-html-reporter": "1.4.0",
+    "karma-jasmine-html-reporter": "1.7.0",
     "karma-junit-reporter": "1.2.0",
     "lite-server": "2.3.0",
     "rimraf": "2.6.2",
